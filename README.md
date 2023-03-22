@@ -1,1 +1,1 @@
-# pythagorastheoremsolver.github.io
+# pythagorastheoremsolver
